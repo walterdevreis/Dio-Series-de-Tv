@@ -9,6 +9,5 @@
 ### Autor:
 * Walter Reis
 
-### Professor:
-* Eliezer Zarpelao
+
 
