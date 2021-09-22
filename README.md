@@ -1,4 +1,4 @@
-# Dio-Series-de-Tv.digitalinnovation.one
+# Dio-Series-de-Tv.DigitalInnovationOne
 
 ## Sobre: Aplicativo de console para gerenciar seus programas de TV favoritos, desenvolvido no curso .Net Fundamentals da DigitalInnovationOne.
 
